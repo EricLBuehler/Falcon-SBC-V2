@@ -1,0 +1,1 @@
+fcl_program_bank_max = 17 ;This is the absolute max bank, 16 is max allowed bank
